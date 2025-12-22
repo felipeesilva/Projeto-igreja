@@ -1,0 +1,13 @@
+.contato-container{
+  max-width: 1200px;
+  padding: 100px 20px;
+  margin: 0 auto;
+  gap: 100px;
+  
+}
+
+.contato-subtitulo{
+  text-align: center;
+  font-size: 4.25rem;
+  margin-bottom: 80px;
+}
