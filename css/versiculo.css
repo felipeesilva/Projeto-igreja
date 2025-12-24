@@ -1,0 +1,23 @@
+.versiculo-bg {
+  background-color: #ffaa22;
+  padding: 90px 0;
+  text-align: center;
+}
+
+.versiculo-container {
+  max-width: 800px;
+  margin: 0 auto;
+  color: #141414;
+  font-size: 1.5rem;
+  font-style: italic;
+  line-height: 1.5;
+  font-weight: 700;
+}
+
+.linha { 
+  width: 100%;
+  margin-top: 90px;
+  height: 30px;
+  margin-bottom: 20px;
+  background-color: #cac7c74f;
+}

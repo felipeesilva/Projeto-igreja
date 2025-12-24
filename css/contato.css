@@ -3,9 +3,9 @@
   padding: 100px 20px;
   margin: 0 auto;
   gap: 100px;
-
   
 }
+
 
 .contato-subtitulo{
   text-align: center;
@@ -34,10 +34,7 @@
   color: #525252;
 }
 
-.contato-meios{
-  /* padding-left: 100px; */
-  
-}
+
 
 .contato-meios li:nth-child(1){
   padding-left: 100px;
@@ -73,3 +70,4 @@
 .contato-meios a:hover{
   color:#141414;  
 }
+

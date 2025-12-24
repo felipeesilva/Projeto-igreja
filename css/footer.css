@@ -1,0 +1,28 @@
+.footer-bg{
+  background-color: #141414;
+}
+
+.footer-container{
+  max-width: 1200px;
+  padding: 50px 10px;
+  margin: 0 auto;
+  gap: 100px;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  align-items: center;
+  /* justify-items: center; */
+
+  
+
+}
+
+.footer-container p{
+  font-size: 1.3rem;
+  font-weight: 600;
+  align-items: center;
+  color: #f1ae44;
+  font-style: italic;
+  text-align: right;
+}
+
+
