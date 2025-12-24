@@ -3,6 +3,7 @@
   padding: 100px 20px;
   margin: 0 auto;
   gap: 100px;
+
   
 }
 
@@ -10,4 +11,65 @@
   text-align: center;
   font-size: 4.25rem;
   margin-bottom: 80px;
+}
+
+.contato img {
+  margin-bottom: 80px;
+}
+
+
+.contato-meios {
+  font-size: 2rem;
+  display: block ;
+  max-width: max-content;
+  margin-bottom: 40px;  
+  font-weight: bold;
+  color: #525252;
+  right: 100px;
+
+}
+
+.contato-meios a{
+  text-decoration: none;
+  color: #525252;
+}
+
+.contato-meios{
+  /* padding-left: 100px; */
+  
+}
+
+.contato-meios li:nth-child(1){
+  padding-left: 100px;
+  background: url(../img/localizacao.svg) no-repeat; 
+}
+
+.contato-meios li:nth-child(
+  2){
+  padding-left: 100px;
+  background: url(../img/telefone.svg) no-repeat; 
+  align-self: center;
+}
+
+.contato-meios li:nth-child(
+  3){
+  padding-left: 100px;
+  background: url(../img/email.svg) no-repeat; 
+  align-items: center;
+}
+
+
+.contato-meios li::after{
+  content: '';
+  display: block;
+  max-width: 1000px;
+  height: 4px;
+  background: #d9d9d9;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.contato-meios li:hover,
+.contato-meios a:hover{
+  color:#141414;  
 }

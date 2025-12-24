@@ -37,11 +37,17 @@
 }
 
 @media (max-width:500px) {
+  .introducao h1{
+    text-align: center;
+    padding: 50px;
+  }
   .introducao img{
     display: none;
   } .introducao{
     grid-template-columns: 1fr;
   }.introducao p{
     font-size: 1rem;
+    text-align: center;
+
   }
 }

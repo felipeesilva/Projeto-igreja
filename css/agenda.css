@@ -38,7 +38,7 @@ box-shadow: rgba(82, 72, 55, 0.909) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px
 
 
 .culto-tipo{
-  font-size: 1.2rem;
+  font-size: 1.3rem;
   font-weight: bolder;
   text-transform: uppercase;
   margin-bottom: 30px;
@@ -48,12 +48,13 @@ box-shadow: rgba(82, 72, 55, 0.909) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px
 }
 
 .tema-culto{
-  font-weight: 410;
-  font-size: 1.125rem;
+  font-weight: 600;
+  font-size: 1.2rem;
   line-height: 1.4;
   margin-bottom: 40px;
   position: relative;
   text-align: center;
+  color: #3d3d3d;
 }
 
 .tema-culto::before{
