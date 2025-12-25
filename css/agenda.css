@@ -13,7 +13,6 @@
 .subtitulo{
   text-align: center;
   font-size: 4.25rem;
-  ;
   margin-bottom: 80px;
 }
 
@@ -67,4 +66,22 @@ box-shadow: rgba(223, 152, 30, 0.909) 0px 2px 5px -1px, rgba(247, 179, 7, 0.83) 
   position: absolute;
   left: -24px;
   
+}
+
+@media (max-width:700px) {
+  .subtitulo{
+    font-size: 3rem;
+    margin-bottom: 50px;
+  }.agenda-container{
+    padding: 20px 15px;
+    gap: 50px;
+  }.culto{
+    flex: 1 1 100%;
+  }.culto-tipo{
+    font-size: 1.1rem;
+    margin-bottom: 20px;
+  }.tema-culto{
+    font-size: 1rem;
+    margin-bottom: 30px;
+  }
 }

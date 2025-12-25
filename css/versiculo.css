@@ -5,7 +5,7 @@
 }
 
 .versiculo-container {
-  max-width: 800px;
+  max-width: 1200px;
   margin: 0 auto;
   color: #141414;
   font-size: 1.5rem;
@@ -16,8 +16,14 @@
 
 .linha { 
   width: 100%;
-  margin-top: 100px;
+  margin-top: 20px;
   height: 30px;
   margin-bottom: 20px;
   background-color: #ffaa22c8;
+}
+
+@media (max-width: 750px) {
+  .versiculo-container {
+    font-size: 1.3rem;
+  }
 }

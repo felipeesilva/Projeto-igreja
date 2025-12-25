@@ -2,7 +2,6 @@
   max-width: 1200px;
   padding: 100px 20px;
   margin: 0 auto;
-  gap: 100px;
   
 }
 
@@ -71,3 +70,29 @@
   color:#141414;  
 }
 
+@media (max-width:1130px) { 
+  .contato-subtitulo{
+    font-size: 3.5rem;
+  }
+  .contato-meios{
+    font-size: 1.4rem;
+
+  }
+  .contato img{
+    max-width: 100;
+  }
+}
+
+@media (max-width:700px) {
+  .contato-container{
+    padding: 50px 20px;
+  }
+  .contato-subtitulo{
+    font-size: 3rem;
+    margin-bottom: 50px;
+  }
+  .contato-meios{
+    font-size: 1.2rem;
+  }
+  
+}
