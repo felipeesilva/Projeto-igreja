@@ -25,5 +25,7 @@
 @media (max-width: 750px) {
   .versiculo-container {
     font-size: 1.3rem;
+  } .linha{
+    height: 10px;
   }
 }

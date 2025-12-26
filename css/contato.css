@@ -3,6 +3,7 @@
   padding: 100px 20px;
   margin: 0 auto;
   
+  
 }
 
 
@@ -10,10 +11,14 @@
   text-align: center;
   font-size: 4.25rem;
   margin-bottom: 80px;
+  color: #292929;
 }
 
-.contato img {
+.contato iframe {
+  width: 100%;
+  height: 450px;
   margin-bottom: 80px;
+  border-radius: 4px;
 }
 
 
@@ -58,7 +63,7 @@
 .contato-meios li::after{
   content: '';
   display: block;
-  max-width: 1000px;
+  width: 1000px;
   height: 4px;
   background: #d9d9d9;
   margin-top: 20px;
@@ -80,7 +85,10 @@
   }
   .contato img{
     max-width: 100;
-  }
+  }.contato-meios li::after{
+  max-width: 100%;
+   
+}
 }
 
 @media (max-width:700px) {
@@ -93,6 +101,6 @@
   }
   .contato-meios{
     font-size: 1.2rem;
-  }
+  } 
   
 }
