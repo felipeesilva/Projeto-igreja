@@ -29,6 +29,9 @@
   color: #141414;
   display: block;
 }
+.header-menu a:hover{
+  color: #f09d18;
+}
 
 @media (max-width:800px) {
   .header{
@@ -36,8 +39,15 @@
     gap: 40px;
     padding: 20px;
   }
-  .header a{
+  .header li{
     background: #f5f5f5;
+    border-radius: 4px;
+  }
+}
+
+@media (max-width:500px) {
+   .header li{
+    background: #f1ae45;
     border-radius: 4px;
   }
 }
