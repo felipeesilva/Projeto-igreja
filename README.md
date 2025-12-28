@@ -1,5 +1,5 @@
 # Projeto igreja
-📖 Site da Igreja Quadrangular do Bacacheri
+📖 Site da Igreja do Evangelho Quadrangular do Bacacheri
 Um site simples e acessível criado para facilitar a vida dos membros e visitantes da igreja, destacando informações realmente importantes como agenda de cultos, endereço e meios de contato.
 
 # 💥 O Motivo
@@ -44,7 +44,7 @@ Evoluir a versão mobile
 
 Este projeto foi desenvolvido com base nos estudos realizados no curso de HTML e CSS da Origamid.
 
-Alguns trechos e ideias foram inspirados nos projetos apresentados durante o curso, adaptados para a realidade da Igreja Quadrangular do Bacacheri.
+Alguns trechos e ideias foram inspirados nos projetos apresentados durante o curso, adaptados para a realidade da Igreja do Evangelho Quadrangular do Bacacheri.
 
 
 # 📜 Licença 
