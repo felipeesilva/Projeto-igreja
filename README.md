@@ -41,7 +41,9 @@ Integrar APIs
 Evoluir a versão mobile
 
 # 📚 Referências
+
 Este projeto foi desenvolvido com base nos estudos realizados no curso de HTML e CSS da Origamid.
+
 Alguns trechos e ideias foram inspirados nos projetos apresentados durante o curso, adaptados para a realidade da Igreja Quadrangular do Bacacheri.
 
 
